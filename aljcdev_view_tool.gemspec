@@ -5,7 +5,7 @@ require "aljcdev_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "aljcdev_view_tool"
   spec.version       = AljcdevViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["BigAJ"]
   spec.email         = ["aljcdev@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
